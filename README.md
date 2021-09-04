@@ -1,6 +1,6 @@
 # Consulta_Base_Datos
 
-Se desarrolla un sistema en JAVA para realizar consultas a una base de datos haciendo uso del patrón Modelo-Vista-Controlador
+Se desarrolla un sistema en JAVA para realizar consultas a una base de datos SQL, haciendo uso del patrón Modelo-Vista-Controlador.
 
 
 Requerimentos:
